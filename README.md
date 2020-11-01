@@ -70,12 +70,9 @@ Want to become a full-time fullstack Develoepr 💸 and an Open Source Contribut
 </a>
 </p>
 
-### Contact me 📝
+<p align="left">
+<h3 align="left">Connect with me:</h3>
+<a href="https://www.linkedin.com/in/yonatangross/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="yonatangross" height="30" width="40" /></a>
+<a href="https://www.facebook.com/yonyoniz/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="yonyoniz" height="30" width="40" /></a>
 
-[<img align="left" alt="yonatangross | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>][linkedin]
-[<img align="left" alt="yonatangross | Facebook" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/1383/1383259.svg"/>][facebook]
-
-
-[linkedin]: https://www.linkedin.com/in/yonatangross/
-[facebook]: https://www.facebook.com/yonyoniz/
 
