@@ -67,7 +67,7 @@
 - 📝 [Resume](https://drive.google.com/file/d/1ukZnF9gpNlv3ZocAPMoXD50hxSsGH56W/view?usp=sharing)
 <br />
 
-### Connect with me 📝
+### 📝 Connect with me 
 
 [<img align="left" alt="yonatangross | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/1383/1383262.svg"/>][linkedin] 
 [<img align="left" alt="yonatan2gross | Gmail" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/281/281786.svg"/>][gmail]
