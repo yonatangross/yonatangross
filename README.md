@@ -1,11 +1,8 @@
-<br>
-<br>
-
 ### Hi there 👋, I'm [Yonatan Gross](https://github.com/yoantangross) 👨‍💻
-<br />
+
+<img align="right" alt="GIF" height="130px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">
 <br />
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">
 
 <h3> 💻 &nbsp;About Me </h3>
 
@@ -15,10 +12,7 @@
   
 - 💪 I'm a self-taught, continuously searching for greater challenges.
   
-<br />
-<br />
-<br />
-<br />
+<hr />
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 🎨 &nbsp;
@@ -56,17 +50,8 @@
   ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat-square&logo=linux)
   ![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=flat-square&logo=ubuntu)
 
-<br />
-<br/>
 
-### ✨ Quick Facts
 
-- 🎿 Hobbies other than coding : Any kind of Sports, Reading books & blogs, Playing Chess, Playing .
-- 📫 How to reach me: yonatan2gross@gmail.com
-- 📝 [Resume](https://drive.google.com/file/d/1ukZnF9gpNlv3ZocAPMoXD50hxSsGH56W/view?usp=sharing)
-
-<br />
-<br />
 
 <p>
 <a href="https://github.com/yonatangross">
@@ -75,13 +60,18 @@
 </a>
 </p>
 
+### ✨ Quick Facts
+
+- 🎿 Hobbies other than coding : Any kind of Sports, Reading books & blogs, Playing Chess, Playing .
+- 📫 How to reach me: yonatan2gross@gmail.com
+- 📝 [Resume](https://drive.google.com/file/d/1ukZnF9gpNlv3ZocAPMoXD50hxSsGH56W/view?usp=sharing)
+<br />
+
 ### Connect with me 📝
 
 [<img align="left" alt="yonatangross | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/1383/1383262.svg"/>][linkedin] 
 [<img align="left" alt="yonatan2gross | Gmail" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/281/281786.svg"/>][gmail]
 [<img align="left" alt="yonatangross | Facebook" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/1383/1383259.svg"/>][facebook]
-
-
 
 [linkedin]: https://www.linkedin.com/in/yonatangross/
 [facebook]: https://www.facebook.com/yonyoniz/
