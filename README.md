@@ -6,6 +6,8 @@
 
 <h3> 💻 &nbsp;About Me </h3>
 
+- 💼 I'm looking for a full-time Fullstack software developer position.
+
 - 🐱‍🏍 I’m currently working on the [Gaming store project](https://github.com/yonatangross/GamingStore)
   
 - 🎓 I'm a Computer Science student (in an evening program, graduating in July 2021)
