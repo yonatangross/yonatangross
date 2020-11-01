@@ -10,8 +10,6 @@
 
 - 🐱‍🏍 I’m currently working on the [Gaming store project](https://github.com/yonatangross/GamingStore)
   
-- 🎓 I'm a Computer Science student (in an evening program, graduating in July 2021)
-  
 - 💪 I'm a self-taught, continuously searching for greater challenges.
   
 <hr />
