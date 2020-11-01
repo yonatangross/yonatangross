@@ -36,7 +36,7 @@
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
   ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=Firebase)
   ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=GraphQL)
-  ![Neo4j](https://img.shields.io/badge/-Neo4k-333333?style=flat&logo=neo4j)
+  ![Neo4j](https://img.shields.io/badge/-Neo4j-333333?style=flat&logo=neo4j)
 
 - ⚙️ &nbsp;
   ![.NETCore](https://img.shields.io/badge/-.NET_Core-333333?style=flat)
