@@ -1,12 +1,13 @@
 ### Hi there 👋, I'm [Yonatan Gross](https://github.com/yoantangross) 👨‍💻
 
-
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">
 <h3> 💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions to our worlds tech problems.
 - 🎓 &nbsp; 3rd year Computer Science student at Colman - College of Management.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
+
 
 - 🌐 &nbsp;
   ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
@@ -40,11 +41,6 @@ Want to become a full-time fullstack Develoepr 💸 and an Open Source Contribut
   
 ### ✨ Quick Facts
 
-- 👨🏽‍💻 I’m currently working as a freelancer.
-- 🌱 I’m currently learning Unit-Testing.
-<!--- 🤔 I’m looking for help for my future MERN projects.-->
-- 💬 Ask me about anything related to JS, React, Redux, Firebase.(After googling it 😜😌)
-<!--- ⚡️ Fun-Fact: I sleep at 6am 🙃. -->
 - 🎿 Hobbies other than coding : Any kind of Sports, Reading books & blogs, Playing Chess, Playing .
 - 📫 How to reach me: yonatan2gross@gmail.com
 - 📝 [Resume](https://drive.google.com/file/d/1ukZnF9gpNlv3ZocAPMoXD50hxSsGH56W/view?usp=sharing)
@@ -74,8 +70,12 @@ Want to become a full-time fullstack Develoepr 💸 and an Open Source Contribut
 </a>
 </p>
 
-### 👣 Next Steps
+### Contact me 📝
 
-_Since you don't want to leave my profile just yet! Here are some things you can do :_
+[<img align="left" alt="yonatangross | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>][linkedin]
+[<img align="left" alt="yonatangross | Facebook" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/1383/1383259.svg"/>][facebook]
 
-❤️ Connect with me : https://www.linkedin.com/in/yonatangross/
+
+[linkedin]: https://www.linkedin.com/in/yonatangross/
+[facebook]: https://www.facebook.com/yonyoniz/
+
