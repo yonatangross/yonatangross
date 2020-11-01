@@ -5,11 +5,11 @@
 <h3> 💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions to our worlds tech problems.
-- 🧐 &nbsp; I'm A Fullstack developer 🚀 from Israel. Always working on some project or learning something new!
 - 🔭 I’m currently working on the [Gaming store project](https://github.com/yonatangross/GamingStore)
 - 🎓 I'm a Computer Science student (in an evening program, graduating in July 2021)
 - 🎨 I'm a self-taught, continuously searching for greater challenges.
-
+- 🧐 &nbsp; I'm A Fullstack developer 🚀 from Israel. Always working on some project or learning something new!
+  
 <br />
 <hr>
 <br />
