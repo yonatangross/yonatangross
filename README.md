@@ -4,10 +4,12 @@
 <h3> 💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions to our worlds tech problems.
-- 🎓 &nbsp; 3rd year Computer Science student at Colman - College of Management.
+- 🧐 &nbsp; I'm A Fullstack developer 🚀 from Israel. Always working on some project or learning something new!
+
+
+
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
-
 
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
@@ -34,10 +36,7 @@
 
 <br/>
 
-<p>
-I'm A FullStack Developer 🚀 from Israel. Always working on some project or learning something new!
-<br/>
-I specialize in C#, JavaScript, React and React Native.
+
 
 <br/>
 Want to become a full-time fullstack Develoepr 💸 and an Open Source Contributor ❤️.
