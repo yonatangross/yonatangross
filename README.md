@@ -20,7 +20,7 @@
   ![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=Redux)
   ![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=expressjs)
 - 🛢 &nbsp;
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+  &nbsp;![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
   ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=Firebase)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
