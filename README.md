@@ -5,8 +5,10 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions to our worlds tech problems.
 - 🧐 &nbsp; I'm A Fullstack developer 🚀 from Israel. Always working on some project or learning something new!
+- 🤞  &nbsp; Want to become a full-time fullstack Develoepr 💸 and an Open Source Contributor ❤️.
+<br />
 
-
+<br/>
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
@@ -36,11 +38,6 @@
 
 <br/>
 
-
-
-<br/>
-Want to become a full-time fullstack Develoepr 💸 and an Open Source Contributor ❤️.
-</p>
   
 ### ✨ Quick Facts
 
