@@ -42,7 +42,6 @@
   ![.NETCore](https://img.shields.io/badge/-.NET_Core-333333?style=flat)
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira&logoColor=1155cc)
   ![Bash](https://img.shields.io/badge/-Bash-333333?style=flat&logo=Bash)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
