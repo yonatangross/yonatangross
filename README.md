@@ -55,8 +55,8 @@
 <p>
 <a href="https://github.com/yonatangross">
   <div class="github-stats">
-  <img height="180em" width="450em" src="https://github-readme-stats.vercel.app/api?username=yonatangross&show_icons=true&theme=algolia" />
-  <img height="180em" width="450em"  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yonatangross&theme=algolia&layout=compact&hide=C%2B%2B" />
+  <img height="180em" width="450em" display="inline" src="https://github-readme-stats.vercel.app/api?username=yonatangross&show_icons=true&theme=algolia" />
+  <img height="180em" width="450em" display="inline" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yonatangross&theme=algolia&layout=compact&hide=C%2B%2B" />
   </div>
 </a>
 </p>
