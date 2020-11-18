@@ -28,6 +28,7 @@
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![React-Native](https://img.shields.io/badge/-React_Native-333333?style=flat&logo=react)
+  ![AngularJS](https://img.shields.io/badge/-AngularJS-333333?style=flat&logo=AngularJS)
   ![Express.js](https://img.shields.io/badge/-Express-333333?style=flat&logo=express.js)
   ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=Redux&logoColor=764abc)
 
