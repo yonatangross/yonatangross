@@ -54,8 +54,8 @@
 
 <p>
   <div class="github-stats">
-  <img height="180px" width="450px" src="https://github-readme-stats.vercel.app/api?username=yonatangross&show_icons=true&hide=issues,contribs" />
-  <img  height="180px" width="450px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yonatangross&layout=compact&hide=C%2B%2B" />
+  <img height="140px" width="450px" src="https://github-readme-stats.vercel.app/api?username=yonatangross&show_icons=true&theme=radical&hide=issues,contribs />
+  <img  height="140px" width="450px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yonatangross&layout=compact&theme=radical&hide=C%2B%2B" />
   </div>
 </p>
 
