@@ -8,7 +8,7 @@
 
 - 💼 I'm looking for a full-time Fullstack software developer position.
 
-- 🐱‍🏍 I’m currently working on the <strong>[Gaming store project](https://github.com/yonatangross/GamingStore)</strong>
+- 🐱‍🏍 I’m currently working on the <strong>[Gaming store project](https://github.com/yonatangross/GamingStore)</strong> & <strong>[Interview Questions](https://github.com/yonatangross/practice-java)
   
 - 💪 I'm a self-taught, continuously searching for greater challenges.
   
