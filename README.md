@@ -55,7 +55,7 @@
 
 <p>
   <div class="github-stats">
-  <img height="130px" width="450px" src="https://github-readme-stats.vercel.app/api?username=yonatangross&theme=onedark&show_icons=true&hide=issues,contribs" />
+  <img height="130px" width="450px" src="https://github-readme-stats.vercel.app/api?username=yonatangross&theme=onedark&show_icons=true&hide=issues" />
   <img height="130px" width="400px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yonatangross&theme=onedark&layout=compact&hide=C%2B%2B" />
   </div>
 </p>
