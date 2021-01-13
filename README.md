@@ -8,7 +8,7 @@
 
 - 💼 I'm looking for a full-time Fullstack software developer position.
 
-- 🐱‍🏍 I’m currently working on the <strong>[Adop(e)t](https://github.com/yonatangross/adopet)</strong> & <strong>[Green Recipe Club](https://github.com/yonatangross/GreenRecipeClub) & developing a smart hydroponic garden.
+- 🐱‍🏍 I’m currently working on the <strong>[Adop(e)t](https://github.com/yonatangross/adopet)</strong> & <strong>[Green Recipe Club](https://github.com/yonatangross/GreenRecipeClub) and developing a smart hydroponic garden.
   
 - 💪 I'm a self-taught, continuously searching for greater challenges.
   
