@@ -64,7 +64,7 @@
 
 - 🎿 Hobbies other than coding : Any kind of Sports🏂🏓🏐, listening to great music🎵 and podcasts, Reading books📚 and blogs, Playing Chess♟ and Playing any card game with friends 🃏.
 - 📫 How to reach me: yonatan2gross@gmail.com
-- 📝 [Resume](https://drive.google.com/file/d/1X3goj04uUHlnZsIUhGJVjiMd8o5_tsKd/view?usp=sharing)
+- 📝 [Resume](https://drive.google.com/file/d/100YQqkWaM6tsVu_ucSyGP8OCPWwTxww7/view?usp=sharing)
 <br />
 
 ### 📝 Connect with me 
