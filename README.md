@@ -30,7 +30,6 @@
   ![React-Native](https://img.shields.io/badge/-React_Native-333333?style=flat&logo=react)
   ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=Angular)
   ![Express.js](https://img.shields.io/badge/-Express-333333?style=flat&logo=express.js)
-  ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=Redux&logoColor=764abc)
 
 - 🛢  &nbsp;
   &nbsp;![SQLServer](https://img.shields.io/badge/-Sql_Server-333333?style=flat&logo=microsoft-sql-server)
