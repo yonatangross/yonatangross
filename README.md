@@ -63,11 +63,13 @@
 - 🎿 Hobbies other than coding : any kind of Sports🏂🏓🏐, listening to great music🎵 and podcasts, reading books📚 and blogs, playing Chess♟ and playing any card game with friends 🃏.
 <br />
 
-### 📝 Connect with me 
+### 📝 Contact Me 
+[<img align="left" alt="yonatangross | LinkedIn" height="40px" src="https://www.flaticon.com/svg/static/icons/svg/1383/1383262.svg"/>][linkedin]
+[<img align="left" alt="yonatan2gross | Gmail" height="40px" src="https://www.flaticon.com/svg/static/icons/svg/281/281786.svg"/>][gmail]
+[<img align="left" alt="yonatangross | Resume" height="40px"  src="https://img.icons8.com/officexs/40/000000/open-resume.png"/>][resume]
 
-[<img align="left" alt="yonatangross | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/1383/1383262.svg"/>][linkedin] 
-[<img align="left" alt="yonatan2gross | Gmail" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/281/281786.svg"/>][gmail]
-📝 [Resume](https://www.dropbox.com/s/slh8ubgjnq4b1is/Yonatan%20Gross%20-%20CV.pdf?dl=0)
 
 [linkedin]: https://www.linkedin.com/in/yonatangross/
 [gmail]: mailto:yonatan2gross@gmail.com
+[resume]: https://www.dropbox.com/s/slh8ubgjnq4b1is/Yonatan%20Gross%20-%20CV.pdf?dl=0
+
