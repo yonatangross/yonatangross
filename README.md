@@ -69,8 +69,6 @@
 
 [<img align="left" alt="yonatangross | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/1383/1383262.svg"/>][linkedin] 
 [<img align="left" alt="yonatan2gross | Gmail" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/281/281786.svg"/>][gmail]
-[<img align="left" alt="yonatangross | Facebook" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/1383/1383259.svg"/>][facebook]
 
 [linkedin]: https://www.linkedin.com/in/yonatangross/
-[facebook]: https://www.facebook.com/yonyoniz/
 [gmail]: mailto:yonatan2gross@gmail.com
