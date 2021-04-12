@@ -66,8 +66,7 @@
 ### 📝 Contact Me 
 [<img align="left" alt="yonatangross | LinkedIn" height="40px" src="https://www.flaticon.com/svg/static/icons/svg/1383/1383262.svg"/>][linkedin]
 [<img align="left" alt="yonatan2gross | Gmail" height="40px" src="https://www.flaticon.com/svg/static/icons/svg/281/281786.svg"/>][gmail]
-[<img align="left" alt="yonatangross | Resume" height="40px"  src="https://img.icons8.com/dotty/80/000000/open-resume.png"/>][resume]
-
+[<img align="left" alt="yonatangross | Resume" height="40px"   src="https://i.ibb.co/3WW9dHp/cv.png" />][resume]
 
 [linkedin]: https://www.linkedin.com/in/yonatangross/
 [gmail]: mailto:yonatan2gross@gmail.com
