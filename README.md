@@ -8,7 +8,7 @@
 
 - 💼 I'm looking for a full-time Fullstack software developer position.
 
-- 🐱‍🏍 I’m currently working on <strong>[Kader](https://github.com/yonatangross/kader)</strong> and developing a smart hydroponic garden.
+- 🐱‍🏍 I’m currently working on <strong>[Kader](https://github.com/yonatangross/kader)</strong>,<strong>[GraphQL Live Chat](https://github.com/yonatangross/GraphQL-LiveChat)</strong>  and developing a smart hydroponic garden.
   
 - 💪 I'm a self-taught, continuously searching for greater challenges.
   
