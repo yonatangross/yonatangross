@@ -6,7 +6,7 @@
 
 <h3> 💻 &nbsp;About Me </h3>
 
-- 💼 I'm looking for a full-time Fullstack software developer position.
+- 💼 I'm looking for a full-time Backend/ Fullstack software developer position.
 
 - 🐱‍🏍 I’m currently working on <strong>[Kader](https://github.com/yonatangross/kader)</strong>, <strong>[GraphQL Live Chat](https://github.com/yonatangross/GraphQL-LiveChat)</strong>  and developing a smart hydroponic garden.
   
@@ -36,7 +36,6 @@
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
   ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=Firebase)
   ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=GraphQL)
-  ![Neo4j](https://img.shields.io/badge/-Neo4j-333333?style=flat&logo=neo4j)
 
 - ⚙️ &nbsp;
   ![.NETCore](https://img.shields.io/badge/-.NET_Core-333333?style=flat)
