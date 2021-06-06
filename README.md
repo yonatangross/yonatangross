@@ -6,7 +6,7 @@
 
 <h3> 💻 &nbsp;About Me </h3>
 
-- 💼 I'm looking for a full-time Backend/ Fullstack software developer position.
+- 💼 I'm looking for a full-time Backend developer / Fullstack software developer position.
 
 - 🐱‍🏍 I’m currently working on <strong>[Kader](https://github.com/yonatangross/kader)</strong>, <strong>[GraphQL Live Chat](https://github.com/yonatangross/GraphQL-LiveChat)</strong>  and developing a smart hydroponic garden.
   
