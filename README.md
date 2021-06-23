@@ -6,9 +6,9 @@
 
 <h3> 💻 &nbsp;About Me </h3>
 
-- 💼 I'm looking for a full-time Backend developer / Fullstack software developer position.
+- 💼 I'm a full-time Backend developer at [Access Fintech](https://www.accessfintech.com/).
 
-- 🐱‍🏍 I’m currently working on <strong>[Kader](https://github.com/yonatangross/kader)</strong> and developing a smart hydroponic garden.
+- 🐱‍🏍 I’m currently working on developing a smart hydroponic garden.
   
 - 💪 I'm a self-taught, continuously searching for greater challenges.
   
