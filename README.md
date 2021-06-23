@@ -6,7 +6,7 @@
 
 <h3> 💻 &nbsp;About Me </h3>
 
-- 💼 I'm a full-time Backend developer at [Access Fintech](https://www.accessfintech.com/).
+- 💼 I'm a Backend developer at [Access Fintech](https://www.accessfintech.com/).
 
 - 🐱‍🏍 I’m currently working on developing a smart hydroponic garden.
   
