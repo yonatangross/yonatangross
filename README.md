@@ -11,30 +11,31 @@
 
 ---
 
-<h3>🛠 Tech Stack</h3>
+### 🛠 Tech Stack  
 
-**Languages & Frameworks**  
-- C#
-- TypeScript / JavaScript
-- Python
-- React
+**👨‍💻 Languages & Frameworks**  
+- ⚙️ **C# (.NET Core)**  
+- 📘 **TypeScript / JavaScript**  
+- 🐍 **Python**  
+- ⚛️ **React**  
 
-**Data & APIs**  
-- GraphQL, REST APIs, gRPC  
-- MySQL, PostgreSQL  
-- MongoDB
-- Redis
-- Elasticsearch
+**🗄️ Data & APIs**  
+- 🔗 **GraphQL, REST APIs, gRPC**  
+- 🐬 **MySQL**, 🐘 **PostgreSQL**  
+- 🍃 **MongoDB**  
+- 📕 **Redis**  
+- 📊 **Elasticsearch**  
 
-**Infrastructure & DevOps**  
-- Kafka, RabbitMQ  
-- Docker, K8s, Linux
-- Git & GitHub Actions  
+**🚀 Infrastructure & DevOps**  
+- 📡 **Kafka, RabbitMQ**  
+- 🐳 **Docker**, ☸️ **Kubernetes**, 🐧 **Linux**  
+- 🌳 **Git & GitHub Actions**  
 
-**AI & Productivity**  
-- OpenAI & Claude APIs  
-- Local LLMs  
-- Vector Databases (e.g., Pinecone)
+**🤖 AI & Productivity**  
+- ✨ **OpenAI & Claude APIs**  
+- 🧠 **Local LLMs**  
+- 🤖 **AI Agents & Automation**  
+- 🔍 **Vector Databases** (e.g., Pinecone)
 
 ---
 
