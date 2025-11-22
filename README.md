@@ -447,7 +447,7 @@ graph TB
 
 **📊 Impact**
 
-<img src="https://img.shields.io/badge/Analysis_Time-Hours→Seconds-success?style=flat-square" alt="Hours to Seconds" />
+<img src="https://img.shields.io/badge/Analysis_Time-Hours%E2%86%92Seconds-success?style=flat-square" alt="Hours to Seconds" />
 
 <img src="https://img.shields.io/badge/Agents-7-blue?style=flat-square" alt="7 Agents" />
 
@@ -594,7 +594,7 @@ Automated pipeline transforms research into actionable implementation guides.
 
 **📊 Impact**
 
-<img src="https://img.shields.io/badge/Research_Time-Weeks→Hours-success?style=flat-square" alt="Weeks to Hours" />
+<img src="https://img.shields.io/badge/Research_Time-Weeks%E2%86%92Hours-success?style=flat-square" alt="Weeks to Hours" />
 
 <img src="https://img.shields.io/badge/Agents-7-blue?style=flat-square" alt="7 Agents" />
 
