@@ -155,25 +155,6 @@
 
 ---
 
-## GitHub Statistics
-
-<div align="center">
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yonatangross&theme=radical&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=58a6ff&icon_color=58a6ff&text_color=ffffff" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yonatangross&theme=radical&layout=compact&langs_count=8&hide=html,css&hide_border=true&bg_color=0D1117&title_color=58a6ff&text_color=ffffff" alt="Top Languages" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-  <img src="https://github-readme-streak-stats.vercel.app/?user=yonatangross&theme=radical&hide_border=true&background=0D1117&ring=58a6ff&fire=FF6B6B&currStreakLabel=58a6ff" alt="GitHub Streak" />
-
-</div>
-
----
-
 <div align="center">
 
   <p><em>"Code is like humor. When you have to explain it, it's bad." — Cory House</em></p>
