@@ -120,10 +120,6 @@ Coverage spans backend (FastAPI, PostgreSQL, REST/GraphQL), AI/LLM (LangGraph, R
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yonatangross&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0B0B0F&title_color=E0A82E&icon_color=E0A82E&text_color=9CA3AF&hide=contribs" alt="GitHub stats" />
-
-<br/><br/>
-
 **Need a system that runs itself?** → **[yonyon.ai](https://yonyon.ai)**
 
 </div>
