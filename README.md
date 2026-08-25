@@ -26,9 +26,9 @@ I run a one-person AI software studio out of Tel Aviv. The pitch is simple: the 
 
 <a href="https://github.com/yonatangross/orchestkit"><img src="https://img.shields.io/github/stars/yonatangross/orchestkit?style=for-the-badge&color=E0A82E&labelColor=0B0B0F&logo=github&logoColor=E0A82E" alt="Stars" /></a>
 <a href="https://github.com/yonatangross/orchestkit"><img src="https://img.shields.io/github/package-json/v/yonatangross/orchestkit?style=for-the-badge&label=version&color=E0A82E&labelColor=0B0B0F" alt="Version" /></a>
-<img src="https://img.shields.io/badge/111-skills-E0A82E?style=for-the-badge&labelColor=0B0B0F" alt="111 skills" />
-<img src="https://img.shields.io/badge/37-agents-E0A82E?style=for-the-badge&labelColor=0B0B0F" alt="37 agents" />
-<img src="https://img.shields.io/badge/211-hooks-E0A82E?style=for-the-badge&labelColor=0B0B0F" alt="211 hooks" />
+<img src="https://img.shields.io/badge/106-skills-E0A82E?style=for-the-badge&labelColor=0B0B0F" alt="106 skills" />
+<img src="https://img.shields.io/badge/36-agents-E0A82E?style=for-the-badge&labelColor=0B0B0F" alt="36 agents" />
+<img src="https://img.shields.io/badge/171-hooks-E0A82E?style=for-the-badge&labelColor=0B0B0F" alt="171 hooks" />
 
 </div>
 
@@ -36,13 +36,26 @@ I run a one-person AI software studio out of Tel Aviv. The pitch is simple: the 
 
 > **Stop explaining your stack. Start shipping.** OrchestKit encodes production patterns — backend, frontend, AI/LLM, security, DevOps, testing, product — so Claude Code already knows your architecture before you type a word.
 
+**Claude Code**
+
 ```bash
+/plugin marketplace add yonatangross/orchestkit
 /plugin install ork
 ```
 
+**Cursor:** Settings → marketplaces → `yonatangross/orchestkit` → enable **ork** → new chat.
+
+**Starter 12 (skills.sh, any agent)** — not the whole catalog:
+
+```bash
+npx skills add yonatangross/orchestkit -s doctor -s setup -s explore -s implement -s verify -s review-pr -s commit -s expect -s assess -s brainstorm -s create-pr -s remember
+```
+
+The implement skill is [`implement`](https://www.skills.sh/yonatangross/orchestkit/implement), not `ork-implement`.
+
 Coverage spans backend (FastAPI, PostgreSQL, REST/GraphQL), AI/LLM (LangGraph, RAG, evals, prompt engineering), frontend (React 19, Next.js, TypeScript), workflows (PR review, implementation, brainstorming), testing, DevOps (CI/CD, Docker, Terraform), product, and security.
 
-<p align="center"><a href="https://github.com/yonatangross/orchestkit"><b>Repo</b></a> · <a href="https://orchestkit.vercel.app"><b>Docs</b></a></p>
+<p align="center"><a href="https://github.com/yonatangross/orchestkit"><b>Repo</b></a> · <a href="https://orchestkit.yonyon.ai"><b>Docs</b></a> · <a href="https://yonyon.ai/compare/orchestkit-superpowers"><b>vs Superpowers</b></a></p>
 
 ---
 
