@@ -9,7 +9,7 @@
 I build AI systems that run businesses: agents, automations, knowledge bases, custom AI apps.<br/>
 Founder of **[yonyon.ai](https://yonyon.ai)** · creator of **[OrchestKit](https://github.com/yonatangross/orchestkit)**.
 
-<a href="https://yonyon.ai"><img src="https://img.shields.io/badge/yonyon.ai-C8962F?style=for-the-badge&logo=googlechrome&logoColor=221B22&labelColor=221B22&color=C8962F" alt="yonyon.ai" /></a>
+<a href="https://yonyon.ai"><img src="https://img.shields.io/badge/yonyon.ai-C8962F?style=for-the-badge&logo=googlechrome&logoColor=C8962F&labelColor=221B22&color=C8962F" alt="yonyon.ai" /></a>
 <a href="https://www.linkedin.com/in/yonatangross/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://x.com/yonyoniz"><img src="https://img.shields.io/badge/X-221B22?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
 <a href="mailto:hi@yonyon.ai"><img src="https://img.shields.io/badge/hi@yonyon.ai-221B22?style=for-the-badge&logo=maildotru&logoColor=C8962F" alt="Email hi@yonyon.ai" /></a>
