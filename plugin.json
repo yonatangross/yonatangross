@@ -1,0 +1,40 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "yonyon",
+  "version": "1.0.0",
+  "description": "Agent plugin manifest for yonyon.ai, the one-engineer AI studio of Yonatan Gross. Points at the site's no-auth Streamable HTTP MCP server and its agent skills index, and at OrchestKit, the open-source Claude Code plugin published from github.com/yonatangross/orchestkit.",
+  "author": {
+    "name": "Yonatan Gross",
+    "email": "hi@yonyon.ai",
+    "url": "https://yonyon.ai"
+  },
+  "homepage": "https://yonyon.ai",
+  "repository": "https://github.com/yonatangross/yonatangross",
+  "keywords": ["yonyon", "yonatan-gross", "mcp", "agent-skills", "claude-code", "orchestkit"],
+  "extensions": {
+    "ai.yonyon.mcp": {
+      "servers": {
+        "yonyon": {
+          "type": "http",
+          "url": "https://yonyon.ai/api/mcp"
+        },
+        "yonyon-docs": {
+          "type": "http",
+          "url": "https://yonyon.ai/api/mcp/docs"
+        }
+      },
+      "serverCard": "https://yonyon.ai/.well-known/mcp/server-card.json"
+    },
+    "ai.yonyon.skills": {
+      "index": "https://yonyon.ai/.well-known/agent-skills/index.json",
+      "guidance": "https://yonyon.ai/.well-known/agent-skills/WHEN-TO-USE.md"
+    },
+    "ai.yonyon.related": {
+      "orchestkit": {
+        "repository": "https://github.com/yonatangross/orchestkit",
+        "marketplace": "yonatangross/orchestkit",
+        "plugin": "ork"
+      }
+    }
+  }
+}
